@@ -15,4 +15,10 @@ OR Clone an existing one.
 
 5. Push it back: git push master origin master
 
+6. To check branch: git branch
+
+7. To create a new branch : git checkout -b <branch_name>
+
+8. Push a branch to GitHub: git push origin <branch_name>
+
 
