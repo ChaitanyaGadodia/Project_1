@@ -1,0 +1,18 @@
+Intro to git:
+
+https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
+
+Steps :
+
+1. Create a new Repository-clone it by using : git clone --HTTPS Link--
+OR Clone an existing one.
+
+2. Make changes,  check status by using : git status
+
+3. Add this changes to The staging environment : git add .
+
+4. Commit it with a mesasage: git commit -m "Message"
+
+5. Push it back: git push master origin master
+
+
